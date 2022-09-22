@@ -1,1 +1,4 @@
-// Code your solution in this file!
+function distanceFromHqInBlocks(someValue){
+    let Hq = 42
+    return (Hq - someValue);
+}
